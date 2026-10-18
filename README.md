@@ -1,2 +1,2 @@
 # RugCat
-Rugpull survivorsurvivorq
+Rugpull survivor
